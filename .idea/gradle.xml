@@ -13,6 +13,16 @@
         </option>
         <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="D:/workspace/migration-scripts/migration_v2.1/CredentialFileMigrate/update-url" />
+        <option name="gradleHome" value="D:/Software/gradle-3.5" />
+        <option name="modules">
+          <set>
+            <option value="D:/workspace/migration-scripts/migration_v2.1/CredentialFileMigrate/update-url" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
